@@ -1,0 +1,60 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "HandoffOS Overview"
+    },
+    {
+      "path": "/login",
+      "title": "Sign in to HandoffOS"
+    },
+    {
+      "path": "/activity",
+      "title": "Live Activity"
+    },
+    {
+      "path": "/memory",
+      "title": "Organizational Memory"
+    },
+    {
+      "path": "/memory/:memoryId",
+      "title": "Memory Detail"
+    },
+    {
+      "path": "/knowledge-shadow",
+      "title": "Knowledge Shadow"
+    },
+    {
+      "path": "/fingerprints",
+      "title": "Failure Fingerprints"
+    },
+    {
+      "path": "/gaps",
+      "title": "Unknown Knowledge"
+    },
+    {
+      "path": "/conflicts",
+      "title": "Knowledge Conflicts"
+    },
+    {
+      "path": "/timeline",
+      "title": "Knowledge Timeline"
+    },
+    {
+      "path": "/graph",
+      "title": "Organizational Knowledge Graph"
+    },
+    {
+      "path": "/warnings",
+      "title": "Warning Center"
+    },
+    {
+      "path": "/handoff",
+      "title": "Handoff Simulator"
+    },
+    {
+      "path": "/settings",
+      "title": "Settings"
+    }
+  ]
+}

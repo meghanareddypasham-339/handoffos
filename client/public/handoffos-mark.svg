@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="HandoffOS brand mark">
+  <rect width="256" height="256" fill="#0B0A16"/>
+  <path d="M42 159C42 103 79 63 128 63v44c-24 0-42 20-42 52H42Z" fill="#6C4DFF"/>
+  <path d="M128 63c49 0 86 40 86 96h-44c0-32-18-52-42-52V63Z" fill="#C8B6FF"/>
+  <circle cx="128" cy="163" r="42" fill="#F7F5FF"/>
+  <circle cx="128" cy="163" r="16" fill="#6C4DFF"/>
+</svg>
